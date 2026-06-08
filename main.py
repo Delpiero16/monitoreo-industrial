@@ -1,3 +1,4 @@
+# Revisado por el Ing. Jefe de Planta
 LIMITE_ALERTA_GLOBAL = 85.0 
 
 def mostrar_encabezado():
